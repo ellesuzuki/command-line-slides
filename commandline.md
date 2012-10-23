@@ -26,6 +26,8 @@
 * Power Tools
 * Directories, Files
 * Text Editing
+
+# What are we learning? (Cont'd)
 * Configuring Your Environment
 * Internet Utilities
 * System Health
@@ -33,7 +35,7 @@
 # Why?
 
 # Why should I be interested or care?
-* Story Time!
+* (Short) Story Time!
 
 # Advantages
 * Faster!
@@ -73,7 +75,7 @@
 * **sh** --Bourne shell (original)
 * **csh** --C shell (next original)
 
-# Derivative shells
+# Derivative/Variant shells
 * **bash** --Bourne-again shell (**Mac OS X default**)
 * ksh --Korn shell
 * zsh --Z shell
@@ -186,6 +188,7 @@
 
 # Configuring Your Environment
 * Tweaking the ~/.bashrc
+* ~/.bash_login
 
 # Other Cool Stuff
 * tar
